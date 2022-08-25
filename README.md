@@ -1,7 +1,7 @@
 ### Hi Everyone!
 
-..🔭 I’m currently working on refactor my bookstore management system
-..🌱 I’m currently practicing my skills on .NET with c#
+.🔭 I’m currently working on refactor my bookstore management system
+.🌱 I’m currently practicing my skills on .NET with c#
 
 ###
 <div align="center">
