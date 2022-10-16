@@ -1,7 +1,9 @@
 ## Hello There! 👋🏻
 
-### I am Brazilian 🇧🇷 and living in Portugal 🇵🇹.
-#### 💻 I am a .Net Developer 
+### 
+I am Brazilian 🇧🇷 and living in Portugal 🇵🇹.
+### 
+💻 I am a .Net Developer 
 
 
 ###
@@ -11,7 +13,7 @@
 </div>  
 
 ### 
-### ⚒ Languages and tools:
+## ⚒ Languages and tools:
 
 <div style="display: inline_block"><br>
 <img align="center" alt="GabCarv-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -26,7 +28,7 @@
 </div>
 
 ###
-### 👇🏻 For my Full profile or to contact me:
+## 👇🏻 For my Full profile or to contact me:
 
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-carvalho-sobral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
