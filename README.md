@@ -1,7 +1,8 @@
-### Hi Everyone!
+## Hello There! 👋🏻
 
-##### 🔭 I’m currently working on refactor my bookstore management system
-##### 🌱 I’m currently .NET Developer
+### I am Brazilian 🇧🇷 and living in Portugal 🇵🇹.
+#### 💻 I am a .Net Developer 
+
 
 ###
 <div align="center">
@@ -9,7 +10,8 @@
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCarv&layout=compact&langs_count=7&theme=merko"/>
 </div>  
 
-###
+### 
+##### ⚒ Languages and tools:
 
 <div style="display: inline_block"><br>
 <img align="center" alt="GabCarv-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -24,8 +26,8 @@
 </div>
 
 ###
-#####
-More about me on my profile
+##### 👇🏻 For my Full profile or to contact me:
+
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-carvalho-sobral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
