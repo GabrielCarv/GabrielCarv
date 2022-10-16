@@ -1,7 +1,7 @@
 ### Hi Everyone!
 
 ##### 🔭 I’m currently working on refactor my bookstore management system
-##### 🌱 I’m currently practicing my skills on .NET with c#
+##### 🌱 I’m currently .NET Developer
 
 ###
 <div align="center">
@@ -24,7 +24,8 @@
 </div>
 
 ###
-
+#####
+More about me on my profile
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-carvalho-sobral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
